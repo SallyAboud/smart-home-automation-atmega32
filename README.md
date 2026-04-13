@@ -45,7 +45,7 @@ The system follows a layered architecture:
 - ADC, PWM, GPIO Drivers
 
 ## Demo Video 
-- [Project Video](https://drive.google.com/file/d/18OKh7CoO4ycQjqEwZi4kTgOIWxX7puO8/view?usp=sharing)  
+- [Project Video](https://drive.google.com/file/d/1NMX6GbbQI-UXlhZLIIj_ZxDImHChQ4Bp/view?usp=sharing)  
 
 ## License
 This project is for educational and non-commercial use.
